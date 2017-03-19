@@ -1,0 +1,14 @@
+{
+  "name": "vuex-kit",
+  "description": "Tools and helpers for vue-vuex",
+  "author": [
+    {
+      "name": "Christian Blaschke",
+      "email": "mail@platdesign.de",
+      "url": "https://github.com/platdesign"
+    }
+  ],
+  "version": "0.0.0",
+  "dependencies": {},
+  "repository":"git@github.com:platdesign/vuex-kit.git"
+}
